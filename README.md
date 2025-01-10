@@ -1,5 +1,6 @@
-## Hello there, i'm Maria Kassandra
+## Hello there☺️
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D9F&width=435&lines=I'm+Maria+Kassandra%2C+welcome!;i+study+computer+science+at+FECAP)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python
