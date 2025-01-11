@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D9F&width=435&lines=I'm+Maria+Kassandra%2C+welcome!;i+study+computer+science+at+FECAP)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
+<!--- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 📫 How to reach me: https://www.linkedin.com/in/maria-kassandra-alves-a6b406284/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: when I was a child I liked to eat rice with ketchup
+  
 
 
 <br/>
