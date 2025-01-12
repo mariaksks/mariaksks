@@ -4,19 +4,16 @@
 
 <!--- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Python
-
-
-
 - 📫 How to reach me: https://www.linkedin.com/in/maria-kassandra-alves-a6b406284/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: when I was a child I liked to eat rice with ketchup
+- ⚡ Fun fact: I believe that the evolution of humanity is intertwined with the help of technology
   
 
 
 <br/>
 <br/>
 
-Linguagens e Tecnologias 
+Languages and Technologies
   
 <div style="display: inline_block"><br>
   <img align="center" alt="maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,6 +36,6 @@ Linguagens e Tecnologias
 <br/>
 <br/>
 
-###  Estatísticas
+###  Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaksks&show_icons=true&theme=highcontrast)
