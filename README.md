@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-Languages and Technologies
+### Languages and Technologies
   
 <div style="display: inline_block"><br>
   <img align="center" alt="maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
