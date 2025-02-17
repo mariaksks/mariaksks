@@ -36,6 +36,4 @@
 <br/>
 <br/>
 
-###  Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaksks&show_icons=true&theme=highcontrast)
