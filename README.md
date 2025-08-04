@@ -1,6 +1,8 @@
 ## Hello there☺️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D9F&width=435&lines=I'm+Maria+Kassandra%2C+welcome!;i+study+computer+science+at+FECAP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DD99B0&width=435&lines=I'm+Maria+Kassandra%2C+welcome!;i+study+computer+science+)](https://git.io/typing-svg)
+
+
 
 <!--- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Python
